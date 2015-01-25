@@ -119,7 +119,7 @@ http {
 
 # 5. WEB UI
 #### - Login
-##### - Default ID, PW: admin/admin
+##### Default ID, PW: admin/admin
 ![Login][2]
 
 #### - Home
