@@ -113,7 +113,7 @@ http {
 # nginx -s reload
 ```
 
-# 6. WEB UI
+# 5. WEB UI
 #### - Login
 ![Login][2]
 
